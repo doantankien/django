@@ -1,0 +1,18 @@
+basic
+https://djangoforbeginners.com/initial-setup/
+
+
+poll:
+https://docs.djangoproject.com/en/3.2/intro/
+
+
+news:
+https://docs.djangoproject.com/en/dev/intro/overview/
+
+e-commerce
+https://www.geeksforgeeks.org/e-commerce-website-using-django/?ref=rp
+https://pythonrepo.com/repo/veryacademy-django-ecommerce-project-python-django-utilities
+
+
+blog - howKteam
+https://www.youtube.com/watch?v=VF0oC9mkkno&list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P&index=1

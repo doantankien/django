@@ -16,3 +16,10 @@ https://pythonrepo.com/repo/veryacademy-django-ecommerce-project-python-django-u
 
 blog - howKteam
 https://www.youtube.com/watch?v=VF0oC9mkkno&list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P&index=1
+https://www.howkteam.vn/course/lap-trinh-web-voi-python-bang-django-36
+
+getbootstrap
+https://getbootstrap.com/docs/5.1/getting-started/download/
+
+heroku:
+https://devcenter.heroku.com/articles/authentication
